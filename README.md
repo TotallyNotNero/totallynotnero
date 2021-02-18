@@ -19,22 +19,22 @@ Currently I am in High School, and you can always contact me through Twitter, Di
 
 Currently, I have a few projects in the works:
 
---> HotBot
+--> **HotBot**
 
 I am a Project Manager/Emergency developer for HotBot, the most advanced discord moderation bot in it's class, with many features such as first class moderation and automod features, an advanced filter, and more! Closed Source and available only in BACON ARMY.
 
---> Senior Moderator for BACON ARMY
+--> **Senior Moderator for BACON ARMY**
 
 I am a retired Head Administrator, current Senior Moderator for BACON ARMY, a YouTuber discord server. 
 
---> FaceLab 
+--> **FaceLab**
 
 Currently developing FaceLab with a friend, a facial recognition platform.
 
---> iHack
+--> **iHack**
 
 All in one tool for A7 devices. Development on hold for now.
 
---> IRL Occupation
+--> **IRL Occupation**
 
 I am currently an Intern at a programming and contracting company.
