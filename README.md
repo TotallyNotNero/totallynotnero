@@ -1,7 +1,10 @@
 # TotallyNotNero
+
 Blog: http://www.etronicindustries.com
 
 Twitter: https://www.twitter.com/totallynotnero
+
+Ubisoft Connect: TotallyNotNero
 
 Discord: TotallyNotNero#0420
 
@@ -27,3 +30,11 @@ I am a retired Head Administrator, current Senior Moderator for BACON ARMY, a Yo
 --> FaceLab 
 
 Currently developing FaceLab with a friend, a facial recognition platform.
+
+--> iHack
+
+All in one tool for A7 devices. Development on hold for now.
+
+--> IRL Occupation
+
+I am currently an Intern at a programming and contracting company.
