@@ -23,6 +23,10 @@ Currently, I have a few projects in the works:
 
 I am a Project Manager/Emergency developer for HotBot, the most advanced discord moderation bot in it's class, with many features such as first class moderation and automod features, an advanced filter, and more! Closed Source and available only in BACON ARMY.
 
+--> **DevBot**
+
+Currently, DevBot is a Discord bot programmed in Swift utilizing the Sword library. This bot is in alpha and private for now, however will later sport many amazing features and commands.
+
 --> **Senior Moderator for BACON ARMY**
 
 I am a retired Head Administrator, current Senior Moderator for BACON ARMY, a YouTuber discord server. 
