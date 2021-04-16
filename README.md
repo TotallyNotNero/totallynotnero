@@ -1,7 +1,5 @@
 # TotallyNotNero
 
-Blog: http://www.etronicindustries.com
-
 Twitter: https://www.twitter.com/totallynotnero
 
 Ubisoft Connect: TotallyNotNero
