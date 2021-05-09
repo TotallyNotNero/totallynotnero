@@ -11,7 +11,7 @@ TotallyNotNero is obviously a screen name... right? Well, I am a developer who s
 
 I have a lot of experience with the Apple Kernel, as well as a decent amount with developing Discord bots. You could probably say that I am self taught at destruction.
 
-Currently I am in High School, and you can always contact me through Twitter, Discord, or my blog!
+Contact me through Twitter, Discord, or my blog!
 
 # Projects
 
