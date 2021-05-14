@@ -29,7 +29,7 @@ Currently, DevBot is a Discord bot programmed in Swift utilizing the Sword libra
 
 I am a retired Head Administrator, current Senior Moderator for BACON ARMY, a YouTuber discord server. 
 
---> **Storm Developmentz Developer**
+--> **Storm Developmentz Contributor**
 
 I am a developer for Storm Developmentz, a group of developers who focus on providing high quality, customizable, efficient, and reliable Discord bots. Our first public project is StormBeatz, the best music bot for Discord. With over 10,000 servers and a 99.9% uptime, this bot can suit your music craving needs!
 
