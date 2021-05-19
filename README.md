@@ -1,6 +1,8 @@
 # TotallyNotNero
 
-Twitter: https://www.twitter.com/totallynotnero
+My blog: [iOS HackSpot](http://www.etronicindustries.org)
+
+Twitter: [TotallyNotNero](https://www.twitter.com/totallynotnero)
 
 Ubisoft Connect: TotallyNotNero
 
@@ -19,7 +21,7 @@ Currently, I have a few projects in the works:
 
 --> **HotBot**
 
-I am a Project Manager/Emergency developer for HotBot, the most advanced discord moderation bot in it's class, with many features such as first class moderation and automod features, an advanced filter, and more! Closed Source and available only in BACON ARMY.
+I am a Project Manager/developer for HotBot, the most advanced discord moderation bot in it's class, with many features such as first class moderation and automod features, an advanced filter, and more! Closed Source and available only in BACON ARMY.
 
 --> **DevBot**
 
