@@ -1,7 +1,5 @@
 # TotallyNotNero
 
-My blog: [iOS HackSpot](http://www.etronicindustries.org)
-
 Twitter: [TotallyNotNero](https://www.twitter.com/totallynotnero)
 
 Ubisoft Connect: TotallyNotNero
