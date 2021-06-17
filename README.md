@@ -49,5 +49,3 @@ I am currently an Intern at a programming and contracting company.
 
 Alright, now you should know a little of who I am. Feel free to contact me whenever to talk or if you need anything else. Thank you!
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TotallyNotNero&langs_count=5&theme=tokyonight)]()
-
