@@ -25,7 +25,7 @@ I am a Project Manager/developer for HotBot, the most advanced discord moderatio
 
 --> **SwiftBot**
 
-Currently, SwiftBot is a Discord bot programmed in Swift utilizing the SwiftDiscord library. This bot is in alpha and private for now, however will later sport many amazing features and commands.
+Currently, SwiftBot is a Discord bot programmed in Swift utilizing the SwiftDiscord library. It is the first Swift discord bot - to my knowledge - supporting a command handler, event handler and music handler, all in the same bot! This bot is in alpha and private for now, however will later sport many amazing features and commands.
 
 --> **Senior Moderator for BACON ARMY**
 
