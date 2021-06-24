@@ -7,7 +7,7 @@ Ubisoft Connect: TotallyNotNero
 Discord: [TotallyNotNero#0420](https://discord.com/users/323982743908384768)
 
 # Who am I?
-TotallyNotNero is obviously a screen name... right? Well, I am a developer who specializes in iOS Development and Jailbreaking. I am fluent in C and Swift, and proficient in Java and JavaScript. I am a car enthusiast, owning a Chevy Camaro. I am a basketball enthusiast, as I play and watch it a hell of a lot, and a gaming enthusiast, playing Rainbow Six Siege and Watch Dogs. I also watch a lot of NCIS, Hawaii Five-0, MacGyver, Magnum P.I, and Scorpion (bring it back please?). I am also a leftist.
+TotallyNotNero is obviously a screen name... right? Well, I am a developer who specializes in iOS Development and Jailbreaking. I am fluent in C and Swift, and proficient in Java, JavaScript, and TypeScript. I am a car enthusiast, owning a Chevy Camaro. I am a basketball enthusiast, as I play and watch it a hell of a lot, and a gaming enthusiast, playing Rainbow Six Siege and Watch Dogs. I also watch a lot of NCIS, Hawaii Five-0, MacGyver, Magnum P.I, and Scorpion (bring it back please?). I am also a leftist.
 
 I have been developing since 2016, learning multiple languages and skills that help me today. I have made various projects in JavaScript since then and even more in C and Swift. 
 
