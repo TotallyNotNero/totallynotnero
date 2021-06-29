@@ -13,6 +13,8 @@ I have been developing since 2016, learning multiple languages and skills that h
 
 I can interact with multiple APIs, such as Discord, Spotify, and YouTube - using both JavaScript and Swift. I also have experience in setting up and utilizing databases, such as PostgreSQL, MySQL and SQLite.
 
+I have ample experience using multiple Discord libraries - Discord.JS is used by me the most, followed by SwiftDiscord.
+
 I have a lot of experience with the Apple Kernel, as well as developing Discord bots. You could probably say that I am self taught at destruction.
 
 Contact me through Twitter, Discord, or my blog!
