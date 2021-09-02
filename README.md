@@ -31,6 +31,10 @@ I am a Project Manager/developer for HotBot, the most advanced discord moderatio
 
 Currently, SwiftBot is a Discord bot programmed in Swift utilizing the SwiftDiscord library. It is the first Swift discord bot - to my knowledge - supporting a command handler, event handler and music handler, all in the same bot! This bot is in alpha and private for now, however will later sport many amazing features and commands.
 
+--> **SwiftyLink**
+
+SwiftyLink is a Lavalink client written in Swift. It is designed for use in Discord bots utilizing Swift Discord clients (e.g. SwiftDiscord). It allows for unbridled access to everything Lavalink has to offer, including loading and playing tracks, without ever reaching your physical bot's voice connection.
+
 --> **Administrator for BACON ARMY**
 
 I am a retired Head Administrator, current Administrator for BACON ARMY, a YouTuber discord server. 
