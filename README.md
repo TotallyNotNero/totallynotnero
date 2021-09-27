@@ -63,3 +63,4 @@ Whilst you were reading this, I hope you gained some insight into who I am as a 
 ![TotallyNotNero's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotallyNotNero&show_icons=true&theme=radical&count_private=true)
 
 
+[TotallyNotNero's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TotallyNotNero)
