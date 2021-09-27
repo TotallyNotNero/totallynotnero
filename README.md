@@ -60,6 +60,6 @@ All in one tool for jailbroken and non-jailbroken A7 devices. Development on hol
 
 Whilst you were reading this, I hope you gained some insight into who I am as a person and a developer. If you ever need to talk about anything, please don't hesitate to reach out to me. Contact me on Discord for the fastest response - I am usually on it everyday. 👋
 
-![TotallyNotNero's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotallyNotNero&show_icons=true&theme=radical)
+![TotallyNotNero's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotallyNotNero&show_icons=true&theme=radical&count_private=true)
 
 
