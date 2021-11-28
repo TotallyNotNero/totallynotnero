@@ -28,6 +28,10 @@ Contact me through Twitter, Discord, or my blog!
 
 Currently, I have a few projects in the works:
 
+--> **CarLink**
+
+CarLink is a platform designed specifically for Stellantis vehicles equipped with Uconnect and Remote Start/Stop technology as a replacement for Uconnect Access, which is installed by default in Stellantis vehicles for model years 2014 and newer. CarLink allows you to remotely lock/unlock, start/stop the engine, roll windows down, monitor car vitals (battery, engine, etc), and work as vehicle security - all from the comfort of your phone. CarLink is in early development, however on launch, will support 2012+ Dodge, Chrysler, Jeep, and RAM cars with remote start/stop + push button technology.
+
 --> **HotBot**
 
 I am a Project Manager/developer for HotBot, the most advanced discord moderation bot in its class, with many features such as first class moderation and automod features, an advanced filter, and more! Closed Source and available only in BACON ARMY.
