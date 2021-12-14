@@ -6,12 +6,17 @@ Ubisoft Connect: TotallyNotNero
 
 Discord: [TotallyNotNero#0420](https://discord.com/users/323982743908384768)
 
+[StormBeatz, our public discord music bot](https://stormbeatz.org/)
+
 [TinkerRealm, my blog made for idiots](https://blog.etronicindustries.org/)
 
 # Who am I?
-TotallyNotNero is obviously a screen name... right? Well, I am a developer who specializes in iOS Development and Jailbreaking. I am extremely interested in the low-level components that power today's iPhones and other iOS devices. I work tirelessly on finding software and hardware bugs, knowing someday one of the bugs I find will be of help to someone. I am fluent in C and Swift, and proficient in Java, JavaScript, and TypeScript. I am a car enthusiast. I am a basketball enthusiast. I am also a gaming enthusiast, playing Rainbow Six Siege and Watch Dogs. I also watch a lot of NCIS, Hawaii Five-0, MacGyver, Magnum P.I, Manifest and Scorpion (bring it back please?). I am also a leftist.
+TotallyNotNero is obviously a screen name... right? Well, I am a developer who specializes in iOS development and jailbreaking. I am extremely interested in the low-level components that power today's iPhones and other iOS devices. I work tirelessly on finding software and hardware bugs, knowing someday one of the bugs I find will be of help to someone. I am fluent in C and Swift, and proficient in Java, JavaScript, and TypeScript. I am a car enthusiast. I am a basketball enthusiast. I am also a gaming enthusiast, playing Rainbow Six Siege and Watch Dogs. I also watch a lot of NCIS, Hawaii Five-0, MacGyver, Magnum P.I, Manifest and Scorpion (bring it back please?). I am also a leftist.
 
-I have been developing since 2016, learning multiple languages and skills that help me today. I have made various projects in JavaScript since then and even more in C and Swift. 
+I have been developing since 2016, learning multiple languages and skills that help me today. I have made various projects in JavaScript since then and even more in C and Swift.
+
+I am a part of Storm Developmentz, a development group focused on providing high-quality discord bots and the most upmost professionalism with support.
+Our first public bot is StormBeatz, a high-quality and top notch music bot capable of providing a seamless music listening experience. With 35,000+ servers and growing, we are the best in the business with our capabilities offered. Check it out someday - you will not be dissatisfied.
 
 I can interact with multiple APIs, such as Discord, Spotify, and YouTube - using both JavaScript and Swift. I also have experience in setting up and utilizing databases, such as PostgreSQL, MySQL and SQLite.
 
@@ -52,9 +57,9 @@ I am a retired Head Administrator, current Administrator for BACON ARMY, a YouTu
 
 I am a discord moderator for Jailbreak, a roblox game created by badimo. 
 
---> **Storm Developmentz Contributor**
+--> **Storm Developmentz Developer**
 
-I am a developer for Storm Developmentz, a group of developers who focus on providing high quality, customizable, efficient, and reliable Discord bots. Our first public project is StormBeatz, the best music bot for Discord. With over 24,000 servers and a 99.9% uptime, this bot can suit your music craving needs!
+I am a developer for Storm Developmentz, a group of developers who focus on providing high quality, customizable, efficient, and reliable Discord bots. Our first public project is StormBeatz, the best music bot for Discord. With over 35,000 servers and a 99.9% uptime, this bot can suit your music craving needs!
 
 --> **iHack**
 
