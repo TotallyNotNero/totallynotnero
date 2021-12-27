@@ -10,8 +10,6 @@ Discord: [TotallyNotNero#0420](https://discord.com/users/323982743908384768)
 
 [TinkerRealm, my blog made for idiots](https://blog.etronicindustries.org/)
 
-[My actual website](https://etronicindustries.org/)
-
 # Who am I?
 TotallyNotNero is obviously a screen name... right? Well, I am a developer who specializes in iOS development and jailbreaking. I am extremely interested in the low-level components that power today's iPhones and other iOS devices. I work tirelessly on finding software and hardware bugs, knowing someday one of the bugs I find will be of help to someone. I am fluent in C and Swift, and proficient in Java, JavaScript, and TypeScript. I am a car enthusiast. I am a basketball enthusiast. I am also a gaming enthusiast, playing Rainbow Six Siege and Watch Dogs. I also watch a lot of NCIS, Hawaii Five-0, MacGyver, Magnum P.I, Manifest and Scorpion (bring it back please?). I am also a leftist.
 
