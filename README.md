@@ -16,7 +16,7 @@ TotallyNotNero is obviously a screen name... right? Well, I am a developer who s
 I have been developing since 2016, learning multiple languages and skills that help me today. I have made various projects in JavaScript since then and even more in C and Swift.
 
 I am a part of Storm Developmentz, a development group focused on providing high-quality discord bots and the most upmost professionalism with support.
-Our first public bot is StormBeatz, a high-quality and top notch music bot capable of providing a seamless music listening experience. With 35,000+ servers and growing, we are the best in the business with our capabilities offered. Check it out someday - you will not be dissatisfied.
+Our first public bot is StormBeatz, a high-quality and top notch music bot capable of providing a seamless music listening experience. With 50,000+ servers and growing, we are the best in the business with our capabilities offered. Check it out someday - you will not be dissatisfied.
 
 I can interact with multiple APIs, such as Discord, Spotify, and YouTube - using both JavaScript and Swift. I also have experience in setting up and utilizing databases, such as PostgreSQL, MySQL and SQLite.
 
