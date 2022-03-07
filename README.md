@@ -16,7 +16,7 @@ TotallyNotNero is obviously a screen name... right? Well, I am a developer who s
 I have been developing since 2016, learning multiple languages and skills that help me today. I have made various projects in JavaScript since then and even more in C and Swift.
 
 I am a part of Storm Developmentz, a development group focused on providing high-quality discord bots and the most upmost professionalism with support.
-Our first public bot is StormBeatz, a high-quality and top notch music bot capable of providing a seamless music listening experience. With 50,000+ servers and growing, we are the best in the business with our capabilities offered. Check it out someday - you will not be dissatisfied.
+Our first public bot is StormBeatz, a high-quality and top notch music bot capable of providing a seamless music listening experience. With 80,000+ servers and growing, we are the best in the business with our capabilities offered. Check it out someday - you will not be dissatisfied.
 
 I can interact with multiple APIs, such as Discord, Spotify, and YouTube - using both JavaScript and Swift. I also have experience in setting up and utilizing databases, such as PostgreSQL, MySQL and SQLite.
 
@@ -33,21 +33,25 @@ Contact me through Twitter, Discord, or my blog!
 
 Currently, I have a few projects in the works:
 
+--> **Storm Developmentz Developer**
+
+I am a developer for Storm Developmentz, a group of developers who focus on providing high quality, customizable, efficient, and reliable Discord bots. Our first public project is StormBeatz, the best music bot for Discord. With over 80,000 servers and a 99.9% uptime, this bot can suit your music craving needs!
+
 --> **CarLink**
 
 CarLink is a platform designed specifically for Stellantis vehicles equipped with Uconnect and Remote Start/Stop technology as a replacement for Uconnect Access, which is installed by default in Stellantis vehicles for model years 2014 and newer. CarLink allows you to remotely lock/unlock, start/stop the engine, roll windows down, monitor car vitals (battery, engine, etc), and work as vehicle security - all from the comfort of your phone. CarLink is in early development, however on launch, will support 2012+ Dodge, Chrysler, Jeep, and RAM cars with remote start/stop + push button technology.
 
---> **HotBot**
+--> **SwiftyBot**
 
-I am a Project Manager/developer for HotBot, the most advanced discord moderation bot in its class, with many features such as first class moderation and automod features, an advanced filter, and more! Closed Source and available only in BACON ARMY.
-
---> **SwiftBot**
-
-Currently, SwiftBot is a Discord bot programmed in Swift utilizing the SwiftDiscord library. It is the first Swift discord bot - to my knowledge - supporting a command handler, event handler and music handler, all in the same bot! This bot is in alpha and private for now, however will later sport many amazing features and commands.
+Currently, SwiftyBot is a Discord bot programmed in Swift utilizing the SwiftDiscord library. It is the first Swift discord bot - to my knowledge - supporting a command handler, event handler and music handler, all in the same bot! This bot is in alpha and private for now, however will later sport many amazing features and commands.
 
 --> **SwiftyLink**
 
 SwiftyLink is a Lavalink client written in Swift. It is designed for use in Discord bots utilizing Swift Discord clients (e.g. SwiftDiscord). It allows for unbridled access to everything Lavalink has to offer, including loading and playing tracks, without ever reaching your physical bot's voice connection.
+
+--> **HotBot**
+
+I am a Project Manager/developer for HotBot, the most advanced discord moderation bot in its class, with many features such as first class moderation and automod features, an advanced filter, and more! Closed Source and available only in BACON ARMY.
 
 --> **Administrator for BACON ARMY**
 
@@ -56,10 +60,6 @@ I am a retired Head Administrator, current Administrator for BACON ARMY, a YouTu
 --> **Moderator for Jailbreak**
 
 I am a discord moderator for Jailbreak, a roblox game created by badimo. 
-
---> **Storm Developmentz Developer**
-
-I am a developer for Storm Developmentz, a group of developers who focus on providing high quality, customizable, efficient, and reliable Discord bots. Our first public project is StormBeatz, the best music bot for Discord. With over 35,000 servers and a 99.9% uptime, this bot can suit your music craving needs!
 
 --> **iHack**
 
