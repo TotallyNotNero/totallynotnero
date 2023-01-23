@@ -49,22 +49,6 @@ Currently, SwiftyBot is a Discord bot programmed in Swift utilizing the SwiftDis
 
 SwiftyLink is a Lavalink client written in Swift. It is designed for use in Discord bots utilizing Swift Discord clients (e.g. SwiftDiscord). It allows for unbridled access to everything Lavalink has to offer, including loading and playing tracks, without ever reaching your physical bot's voice connection.
 
---> **HotBot**
-
-I am a Project Manager/developer for HotBot, the most advanced discord moderation bot in its class, with many features such as first class moderation and automod features, an advanced filter, and more! Closed Source and available only in BACON ARMY.
-
---> **Administrator for BACON ARMY**
-
-I am a retired Head Administrator, current Administrator for BACON ARMY, a YouTuber's discord server. 
-
---> **Moderator for Jailbreak**
-
-I am a discord moderator for Jailbreak, a roblox game created by badimo. 
-
---> **iHack**
-
-All in one tool for jailbroken and non-jailbroken A7 devices. Development on hold for now.
-
 # Wrap-up
 
 Whilst you were reading this, I hope you gained some insight into who I am as a person and a developer. If you ever need to talk about anything, please don't hesitate to reach out to me. Contact me on Discord for the fastest response - I am usually on it everyday. 👋
