@@ -18,7 +18,7 @@ Our first public Discord bot is [StormBeatz](https://stormbeatz.org/), a high-qu
 
 I can interact with multiple APIs, such as Discord, Spotify, and YouTube - using both JavaScript and Swift. I also have experience in setting up and utilizing databases, such as PostgreSQL, MySQL and SQLite. I also have ample experience using multiple Discord libraries - Discord.JS is used by me the most, followed by SwiftDiscord.
 
-Otherwise, I enjoy playing with things until they break. I've had a lot of really stupid projects - from creating an app to remotely start my car, installing Windows on my graphing calculator (rest in peace), and exploiting my Nintendo Switch. I am also an automotive enthusiast (BMW, Dodge, and GM guy). I created a blog to keep track of my various projects, however now I think my [blog](https://blog.etronicindustries.org/) can be used as entertainment. Go check it out.
+Otherwise, I enjoy playing with things until they break. I've had a lot of really stupid projects - from creating an app to remotely start my car, installing Windows on my graphing calculator (rest in peace), and exploiting my Nintendo Switch. I am also an automotive enthusiast. I created a blog to keep track of my various projects, however now I think my [blog](https://blog.etronicindustries.org/) can be used as entertainment. Go check it out.
 
 ![TotallyNotNero's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotallyNotNero&show_icons=true&theme=radical&count_private=true)
 
